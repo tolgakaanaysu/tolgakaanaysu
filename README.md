@@ -1,4 +1,4 @@
-##  Hello eveyone 👐🏻
+#  Hello eveyone 👐🏻
  I'm Tolga Kagan Aysu. I live in Istanbul. I graduated from Doğuş University Computer Engineering. I am interested in iOS Development
  
  ## Contact
