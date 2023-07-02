@@ -1,6 +1,4 @@
-#  Hello everyone 👐🏻
- I'm Tolga Kagan Aysu. I live in Istanbul. I graduated from Doğuş University Computer Engineering. I am interested in iOS Development
- 
+
   ## Contact
   <a href = "mailto: tolgakaanaysu@gmail.com"><img src="https://img.icons8.com/fluency/344/gmail.png"  width="50" height="50"></a> 
   <a href="https://www.linkedin.com/in/tolgakaganaysu" target="_blank"><img src="https://img.icons8.com/color/344/linkedin.png" width="50" height="50"></a> 
